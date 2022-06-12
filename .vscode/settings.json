@@ -1,0 +1,12 @@
+{
+    "helium-icon-theme.showReloadMessage": true,
+    "helium-icon-theme.showWelcomeMessage": true,
+    "helium-icon-theme.activeIconPack": "vue",
+    "material-icon-theme.activeIconPack": "vue",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "html.format.wrapLineLength": 120,
+    "diffEditor.wordWrap": "inherit",
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+    "editor.wrappingIndent": "indent"
+}
